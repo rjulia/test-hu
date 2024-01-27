@@ -1,3 +1,6 @@
 [submodule "frontend-hau"]
 	path = frontend-hau
 	url = https://github.com/rjulia/frontend-hau
+[submodule "backend-hau"]
+	path = backend-hau
+	url = https://github.com/rjulia/backend-hau
